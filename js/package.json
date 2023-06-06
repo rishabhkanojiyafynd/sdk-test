@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@pixelbin/admin": "github:rishabhkanojiyafynd/pixelbin-js-admin-temp#PIXB-2489"
+    "@pixelbin/admin": "github:<username>/<repo-name>#<branch-name>"
   }
 }
