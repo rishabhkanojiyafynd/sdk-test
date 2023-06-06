@@ -5,7 +5,14 @@
 
 ## Installing branch as package
 
-In modules, enter the name of your branch to install it as a package.
+- In modules, enter the name of your branch to install it as a package.
+- If you haven't already created a testing repo or branch, please fork the respective main repo and add a new branch with the appropriate Epic name and use the same below.
+
+Production Repos :
+
+- [pixelbin-js-admin](https://github.com/pixelbin-dev/pixelbin-js-admin)
+- [pixelbin-python-sdk](https://github.com/pixelbin-dev/pixelbin-python-sdk)
+- [pixelbin-go](https://github.com/pixelbin-dev/pixelbin-go)
 
 ### Node JS:
 
@@ -45,4 +52,6 @@ go get -u "github.com/pixelbin-dev/pixelbin-go/v2@PIXB-2491"
 
 ### Miscellaneous
 
-Replace `API_TOKEN` with the correct one.
+- Replace `API_TOKEN` with the correct one.
+
+- _No tokens or changes should be pushed._
