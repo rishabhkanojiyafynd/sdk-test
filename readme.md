@@ -1,5 +1,8 @@
 # SDK Testing
 
+- Dev should create a branch from main and change the required package for testing.
+- Make certain that the 'dev' environment and API tokens are not exposed.
+
 ## Installing branch as package
 
 In modules, enter the name of your branch to install it as a package.
